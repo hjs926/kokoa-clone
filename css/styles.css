@@ -38,7 +38,7 @@ body {
   transition: border-color 0.3s ease-in-out;
 }
 
-#login-form input:: placeholder{
+#login-form input::placeholder{
   color: rgba(0, 0, 0, 0.4);
 }
 
